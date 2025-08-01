@@ -1,4 +1,4 @@
-# BTT-MachineLearningFoundations-Project
+# Book Review Classifier Model
 
 This repository entails the machine learning project that I defined and attempted to solve during my time in BreakThrough Tech's AI and Machine Learning Program. The ipynb file contains the code that I used in order to attempt to classify the data in bookReviewsData.csv. As the name implies, the data is about book reviews, and mainly contained short to medium length reviews on books with a label that indicated (true or false) whether the review contained positive sentiments or not.
 
